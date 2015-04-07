@@ -14,5 +14,13 @@
     "Event"
   ],
   "author": "Arvo",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvoGuo/left.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArvoGuo/left/issues"
+  },
+  "homepage": "https://github.com/ArvoGuo/left"
 }
