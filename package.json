@@ -1,0 +1,18 @@
+{
+  "name": "left",
+  "version": "1.0.0",
+  "description": "extreme simple way to addEventListener",
+  "main": "left.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "simple",
+    "Event"
+  ],
+  "author": "Arvo",
+  "license": "ISC"
+}
