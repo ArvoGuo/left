@@ -1,6 +1,6 @@
 {
   "name": "left",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extreme simple way to addEventListener",
   "main": "left.js",
   "directories": {
