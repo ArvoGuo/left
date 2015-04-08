@@ -1,4 +1,8 @@
-Mix mobile events and pc events, extreme simple way to addEventListener
+Just bind once, run on mobile and pc;
+
+Mix mobile events and pc events, extreme simple way to addEventListener;
+
+You just need to bind "touchstart", it take effect as "mousestart" of "touchstart" according to [IsMobile];
 
 Usage:
 
