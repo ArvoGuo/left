@@ -1,4 +1,4 @@
-//test
+//
 
 (function(root, factory){
   if (typeof exports !== 'undefined' && module.exports) {
