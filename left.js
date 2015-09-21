@@ -58,8 +58,8 @@
     Node.prototype.on = function(event, fn) {
       var type = events(event);
       this.addEventListener(type,function(e) {
-        if (e.touches) {
-          fn(e.touches[0],e);
+        if (e.changedTouches) {
+          fn(e.changedTouches[0],e);
         } else{
           fn(e);
         }
